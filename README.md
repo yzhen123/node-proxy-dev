@@ -1,14 +1,14 @@
 # node-proxy-dev
-a proxy server wrapper for frontend development, you can easily modify or replace remote files
+a proxy server wrapper for frontend development, easy to modify or replace remote files.
 
 ## INSTALL
 
 ```sh
-npm i proxy-dev
+npm i -g proxy-dev
 ```
 
 ## USAGE
-you can use this package by cli parameters or config file. And use 'pd' for shotcut of `proxy-dev`
+You can use this package by cli parameters or config file, and use `pd` for shotcut of `proxy-dev`
 
 ### cli
 
