@@ -1,0 +1,37 @@
+{
+  "name": "proxy-dev",
+  "version": "0.0.1",
+  "description": "a proxy server wrapper for front end development, change remote static files to local files",
+  "bin": {
+    "pd": "./bin/cli.js",
+    "proxy-dev": "./bin/cli.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzhen123/node-proxy-dev.git"
+  },
+  "keywords": [
+    "proxy",
+    "http-proxy",
+    "frontend",
+    "develop"
+  ],
+  "author": {
+    "name": "yzhen123",
+    "email": "464631487@qq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yzhen123/node-proxy-dev/issues"
+  },
+  "homepage": "https://github.com/yzhen123/node-proxy-dev#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "connect": "^3.4.0",
+    "http-proxy": "^1.12.0"
+  }
+}
