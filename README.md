@@ -1,5 +1,5 @@
 # node-proxy-dev
-a proxy server wrapper for frontend development, easy to modify or replace remote files.
+a proxy server wrapper for frontend development, easy to modify or replace remote files. Thanks for the great package [node-http-proxy](https://github.com/nodejitsu/node-http-proxy)
 
 ## INSTALL
 

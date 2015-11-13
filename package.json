@@ -6,7 +6,7 @@
     "pd": "./bin/cli.js",
     "proxy-dev": "./bin/cli.js"
   },
-  "main": "index.js",
+  "main": "lib/proxy-dev.js",
   "scripts": {
     "test": "test"
   },
